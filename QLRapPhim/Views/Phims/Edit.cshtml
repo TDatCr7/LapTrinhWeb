@@ -1,0 +1,116 @@
+﻿@model QLRapPhim.Models.Phim
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Edit</h1>
+
+<hr />
+<div class="row">
+    <div class="col-md-6">
+        <form asp-action="Edit" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" />
+
+            <div class="form-group">
+                <label asp-for="Name"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Duration"></label>
+                <input asp-for="Duration" class="form-control" />
+                <span asp-validation-for="Duration" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="ReleaseDate"></label>
+                <input asp-for="ReleaseDate" type="date" class="form-control" />
+                <span asp-validation-for="ReleaseDate" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="CategoryId">Thể loại</label>
+                <select asp-for="CategoryId" asp-items="ViewBag.CategoryId" class="form-control"></select>
+                <span asp-validation-for="CategoryId" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label>Hình ảnh hiện tại</label><br />
+                @if (!string.IsNullOrEmpty(Model.ImageUrl))
+                {
+                    <img src="@Model.ImageUrl" style="max-height:100px;" alt="Hình ảnh hiện tại" />
+                }
+                else
+                {
+                    <span>Chưa có hình ảnh</span>
+                }
+            </div>
+
+            <div class="form-group">
+                <label for="imageFile">Hình ảnh mới</label>
+                <input type="file" name="imageFile" id="imageFile" accept="image/*" class="form-control" />
+                <div class="mt-2">
+                    <label>Xem trước hình ảnh mới</label><br />
+                    <img id="imagePreview" style="max-height:100px; display:none;" alt="Xem trước hình ảnh" />
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Description"></label>
+                <textarea asp-for="Description" class="form-control"></textarea>
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mt-3">
+                <input type="submit" value="Lưu" class="btn btn-primary" />
+                <a asp-action="Index" class="btn btn-secondary">Quay lại</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+    <script>
+        // JavaScript để xử lý xem trước hình ảnh
+        document.getElementById('imageFile').addEventListener('change', function (event) {
+            const file = event.target.files[0];
+            const preview = document.getElementById('imagePreview');
+
+            if (file) {
+                // Kiểm tra định dạng file
+                const validImageTypes = ['image/jpeg', 'image/png', 'image/gif'];
+                if (!validImageTypes.includes(file.type)) {
+                    alert('Vui lòng chọn file ảnh định dạng JPG, PNG hoặc GIF.');
+                    event.target.value = ''; // Xóa file không hợp lệ
+                    preview.style.display = 'none';
+                    return;
+                }
+
+                // Kiểm tra kích thước file (ví dụ: giới hạn 10MB)
+                if (file.size > 10 * 1024 * 1024) {
+                    alert('File ảnh không được vượt quá 10MB.');
+                    event.target.value = ''; // Xóa file không hợp lệ
+                    preview.style.display = 'none';
+                    return;
+                }
+
+                // Đọc và hiển thị hình ảnh
+                const reader = new FileReader();
+                reader.onload = function (e) {
+                    preview.src = e.target.result;
+                    preview.style.display = 'block';
+                };
+                reader.readAsDataURL(file);
+            } else {
+                preview.style.display = 'none';
+            }
+        });
+    </script>
+}

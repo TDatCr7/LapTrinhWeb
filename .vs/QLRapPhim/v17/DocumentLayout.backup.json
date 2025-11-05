@@ -1,0 +1,1378 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|c:\\users\\asus\\desktop\\do an\\web\\qlrapphim\\qlrapphim\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|solutionrelative:qlrapphim\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|c:\\users\\asus\\desktop\\do an\\web\\qlrapphim\\qlrapphim\\views\\booking\\payment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|solutionrelative:qlrapphim\\views\\booking\\payment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|c:\\users\\asus\\desktop\\do an\\web\\qlrapphim\\qlrapphim\\views\\booking\\paymentcomplete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|solutionrelative:qlrapphim\\views\\booking\\paymentcomplete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|c:\\users\\asus\\desktop\\do an\\web\\qlrapphim\\qlrapphim\\views\\booking\\bookinghistory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|solutionrelative:qlrapphim\\views\\booking\\bookinghistory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|c:\\users\\asus\\desktop\\do an\\web\\qlrapphim\\qlrapphim\\vnpay\\vnpaylibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|solutionrelative:qlrapphim\\vnpay\\vnpaylibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|c:\\users\\asus\\desktop\\do an\\web\\qlrapphim\\qlrapphim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|solutionrelative:qlrapphim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|c:\\users\\asus\\desktop\\do an\\web\\qlrapphim\\qlrapphim\\views\\phims\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|solutionrelative:qlrapphim\\views\\phims\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|c:\\users\\asus\\desktop\\do an\\web\\qlrapphim\\qlrapphim\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|solutionrelative:qlrapphim\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|c:\\users\\asus\\desktop\\do an\\web\\qlrapphim\\qlrapphim\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|solutionrelative:qlrapphim\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|c:\\users\\asus\\desktop\\do an\\web\\qlrapphim\\qlrapphim\\models\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|solutionrelative:qlrapphim\\models\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|c:\\users\\asus\\desktop\\do an\\web\\qlrapphim\\qlrapphim\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|solutionrelative:qlrapphim\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|c:\\users\\asus\\desktop\\do an\\web\\qlrapphim\\qlrapphim\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|solutionrelative:qlrapphim\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|c:\\users\\asus\\desktop\\do an\\web\\qlrapphim\\qlrapphim\\views\\phims\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|solutionrelative:qlrapphim\\views\\phims\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|c:\\users\\asus\\desktop\\do an\\web\\qlrapphim\\qlrapphim\\views\\phims\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|solutionrelative:qlrapphim\\views\\phims\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|c:\\users\\asus\\desktop\\do an\\web\\qlrapphim\\qlrapphim\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|solutionrelative:qlrapphim\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|c:\\users\\asus\\desktop\\do an\\web\\qlrapphim\\qlrapphim\\views\\home\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|solutionrelative:qlrapphim\\views\\home\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|c:\\users\\asus\\desktop\\do an\\web\\qlrapphim\\qlrapphim\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|solutionrelative:qlrapphim\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|c:\\users\\asus\\desktop\\do an\\web\\qlrapphim\\qlrapphim\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|solutionrelative:qlrapphim\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|c:\\users\\asus\\desktop\\do an\\web\\qlrapphim\\qlrapphim\\models\\vnpaysetiings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|solutionrelative:qlrapphim\\models\\vnpaysetiings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|c:\\users\\asus\\desktop\\do an\\web\\qlrapphim\\qlrapphim\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|solutionrelative:qlrapphim\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|c:\\users\\asus\\desktop\\do an\\web\\qlrapphim\\qlrapphim\\models\\phongchieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|solutionrelative:qlrapphim\\models\\phongchieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|c:\\users\\asus\\desktop\\do an\\web\\qlrapphim\\qlrapphim\\models\\suatchieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|solutionrelative:qlrapphim\\models\\suatchieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|c:\\users\\asus\\desktop\\do an\\web\\qlrapphim\\qlrapphim\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|solutionrelative:qlrapphim\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|c:\\users\\asus\\desktop\\do an\\web\\qlrapphim\\qlrapphim\\views\\loaiphims\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|solutionrelative:qlrapphim\\views\\loaiphims\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|c:\\users\\asus\\desktop\\do an\\web\\qlrapphim\\qlrapphim\\controllers\\phongchieuxcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|solutionrelative:qlrapphim\\controllers\\phongchieuxcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|c:\\users\\asus\\desktop\\do an\\web\\qlrapphim\\qlrapphim\\controllers\\giavescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|solutionrelative:qlrapphim\\controllers\\giavescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|c:\\users\\asus\\desktop\\do an\\web\\qlrapphim\\qlrapphim\\controllers\\ghengoiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|solutionrelative:qlrapphim\\controllers\\ghengoiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|c:\\users\\asus\\desktop\\do an\\web\\qlrapphim\\qlrapphim\\controllers\\suatchieuxcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|solutionrelative:qlrapphim\\controllers\\suatchieuxcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|c:\\users\\asus\\desktop\\do an\\web\\qlrapphim\\qlrapphim\\controllers\\phimscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|solutionrelative:qlrapphim\\controllers\\phimscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|c:\\users\\asus\\desktop\\do an\\web\\qlrapphim\\qlrapphim\\controllers\\loaiphimscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|solutionrelative:qlrapphim\\controllers\\loaiphimscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|c:\\users\\asus\\desktop\\do an\\web\\qlrapphim\\qlrapphim\\views\\loaiphims\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|solutionrelative:qlrapphim\\views\\loaiphims\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|c:\\users\\asus\\desktop\\do an\\web\\qlrapphim\\qlrapphim\\models\\phim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|solutionrelative:qlrapphim\\models\\phim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|c:\\users\\asus\\desktop\\do an\\web\\qlrapphim\\qlrapphim\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|solutionrelative:qlrapphim\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|c:\\users\\asus\\desktop\\do an\\web\\qlrapphim\\qlrapphim\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|solutionrelative:qlrapphim\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|c:\\users\\asus\\desktop\\do an\\web\\qlrapphim\\qlrapphim\\views\\phims\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|solutionrelative:qlrapphim\\views\\phims\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|c:\\users\\asus\\desktop\\do an\\web\\qlrapphim\\qlrapphim\\models\\loaiphim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|solutionrelative:qlrapphim\\models\\loaiphim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|c:\\users\\asus\\desktop\\do an\\web\\qlrapphim\\qlrapphim\\views\\booking\\selectticketandfood.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|solutionrelative:qlrapphim\\views\\booking\\selectticketandfood.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|c:\\users\\asus\\desktop\\do an\\web\\qlrapphim\\qlrapphim\\views\\booking\\selectseat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|solutionrelative:qlrapphim\\views\\booking\\selectseat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|c:\\users\\asus\\desktop\\do an\\web\\qlrapphim\\qlrapphim\\views\\booking\\bookinghistorydetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|solutionrelative:qlrapphim\\views\\booking\\bookinghistorydetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|c:\\users\\asus\\desktop\\do an\\web\\qlrapphim\\qlrapphim\\models\\bookinghistoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|solutionrelative:qlrapphim\\models\\bookinghistoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|c:\\users\\asus\\desktop\\do an\\web\\qlrapphim\\qlrapphim\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|solutionrelative:qlrapphim\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|c:\\users\\asus\\desktop\\do an\\web\\qlrapphim\\qlrapphim\\views\\bookings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|solutionrelative:qlrapphim\\views\\bookings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|c:\\users\\asus\\desktop\\do an\\web\\qlrapphim\\qlrapphim\\views\\bookings\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|solutionrelative:qlrapphim\\views\\bookings\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|c:\\users\\asus\\desktop\\do an\\web\\qlrapphim\\qlrapphim\\views\\booking\\paymentfailed.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|solutionrelative:qlrapphim\\views\\booking\\paymentfailed.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|c:\\users\\asus\\desktop\\do an\\web\\qlrapphim\\qlrapphim\\controllers\\doanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|solutionrelative:qlrapphim\\controllers\\doanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|c:\\users\\asus\\desktop\\do an\\web\\qlrapphim\\qlrapphim\\models\\seatviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|solutionrelative:qlrapphim\\models\\seatviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|c:\\users\\asus\\desktop\\do an\\web\\qlrapphim\\qlrapphim\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|solutionrelative:qlrapphim\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|c:\\users\\asus\\desktop\\do an\\web\\qlrapphim\\qlrapphim\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|solutionrelative:qlrapphim\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|c:\\users\\asus\\desktop\\do an\\web\\qlrapphim\\qlrapphim\\models\\bookingdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|solutionrelative:qlrapphim\\models\\bookingdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|c:\\users\\asus\\desktop\\do an\\web\\qlrapphim\\qlrapphim\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|solutionrelative:qlrapphim\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|c:\\users\\asus\\desktop\\do an\\web\\qlrapphim\\qlrapphim\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|solutionrelative:qlrapphim\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|c:\\users\\asus\\desktop\\do an\\web\\qlrapphim\\qlrapphim\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|solutionrelative:qlrapphim\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|c:\\users\\asus\\desktop\\do an\\web\\qlrapphim\\qlrapphim\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|solutionrelative:qlrapphim\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|c:\\users\\asus\\desktop\\do an\\web\\qlrapphim\\qlrapphim\\views\\booking\\selectshowtime.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|solutionrelative:qlrapphim\\views\\booking\\selectshowtime.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|c:\\users\\asus\\desktop\\do an\\web\\qlrapphim\\qlrapphim\\models\\doan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|solutionrelative:qlrapphim\\models\\doan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|c:\\users\\asus\\desktop\\do an\\web\\qlrapphim\\qlrapphim\\models\\giave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|solutionrelative:qlrapphim\\models\\giave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|c:\\users\\asus\\desktop\\do an\\web\\qlrapphim\\qlrapphim\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|solutionrelative:qlrapphim\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|c:\\users\\asus\\desktop\\do an\\web\\qlrapphim\\qlrapphim\\models\\ghengoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|solutionrelative:qlrapphim\\models\\ghengoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614160701_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|c:\\users\\asus\\desktop\\do an\\web\\qlrapphim\\qlrapphim\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|solutionrelative:qlrapphim\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614160411_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614155635_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614155551_v3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614155337_v3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614155307_v3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614154836_v3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614154739_v3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614154221_v3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614153557_v3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614153338_v3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614153056_v4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614152934_v4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614152707_v4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614152532_v4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614151239_v4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614151152_v4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614151115_v4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614150957_v4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|c:\\users\\asus\\desktop\\do an\\web\\qlrapphim\\qlrapphim\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|solutionrelative:qlrapphim\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|c:\\users\\asus\\desktop\\do an\\web\\qlrapphim\\qlrapphim\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|solutionrelative:qlrapphim\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250612153500_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250612153259_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250612133815_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250612133727_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250612133234_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250610153430_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250610152814_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|c:\\users\\asus\\desktop\\do an\\web\\qlrapphim\\qlrapphim\\migrations\\20251024040348_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF6E1288-34B3-4F8F-8B11-B2817E9DC04B}|QLRapPhim\\QLRapPhim.csproj|solutionrelative:qlrapphim\\migrations\\20251024040348_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "QLRapPhim\\Controllers\\BookingController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "QLRapPhim\\Controllers\\BookingController.cs",
+              "ViewState": "AgIAABcBAAAAAAAAAAAuwB4BAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T02:43:12.965Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\appsettings.json",
+              "RelativeDocumentMoniker": "QLRapPhim\\appsettings.json",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\appsettings.json",
+              "RelativeToolTip": "QLRapPhim\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-10T14:31:15.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "QLRapPhim\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "QLRapPhim\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAANAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T05:06:15.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VnPayLibrary.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\VNPAY\\VnPayLibrary.cs",
+              "RelativeDocumentMoniker": "QLRapPhim\\VNPAY\\VnPayLibrary.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\VNPAY\\VnPayLibrary.cs",
+              "RelativeToolTip": "QLRapPhim\\VNPAY\\VnPayLibrary.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAwwIYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T06:17:11.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookingHistory.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Views\\Booking\\BookingHistory.cshtml",
+              "RelativeDocumentMoniker": "QLRapPhim\\Views\\Booking\\BookingHistory.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Views\\Booking\\BookingHistory.cshtml",
+              "RelativeToolTip": "QLRapPhim\\Views\\Booking\\BookingHistory.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T14:42:23.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaymentComplete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Views\\Booking\\PaymentComplete.cshtml",
+              "RelativeDocumentMoniker": "QLRapPhim\\Views\\Booking\\PaymentComplete.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Views\\Booking\\PaymentComplete.cshtml",
+              "RelativeToolTip": "QLRapPhim\\Views\\Booking\\PaymentComplete.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAwwC4AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-14T09:57:44.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Payment.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Views\\Booking\\Payment.cshtml",
+              "RelativeDocumentMoniker": "QLRapPhim\\Views\\Booking\\Payment.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Views\\Booking\\Payment.cshtml",
+              "RelativeToolTip": "QLRapPhim\\Views\\Booking\\Payment.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAswC0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-14T09:58:07.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Views\\Phims\\Edit.cshtml",
+              "RelativeDocumentMoniker": "QLRapPhim\\Views\\Phims\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Views\\Phims\\Edit.cshtml",
+              "RelativeToolTip": "QLRapPhim\\Views\\Phims\\Edit.cshtml",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAAAG0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-16T06:11:26.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "QLRapPhim\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "QLRapPhim\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T05:06:11.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "QLRapPhim\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "QLRapPhim\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAAAJ8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T13:19:11.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SD.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Models\\SD.cs",
+              "RelativeDocumentMoniker": "QLRapPhim\\Models\\SD.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Models\\SD.cs",
+              "RelativeToolTip": "QLRapPhim\\Models\\SD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T05:15:54.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Program.cs",
+              "RelativeDocumentMoniker": "QLRapPhim\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Program.cs",
+              "RelativeToolTip": "QLRapPhim\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T14:32:10.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "QLRapPhim\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "QLRapPhim\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwCYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-14T05:06:14.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Views\\Phims\\Index.cshtml",
+              "RelativeDocumentMoniker": "QLRapPhim\\Views\\Phims\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Views\\Phims\\Index.cshtml",
+              "RelativeToolTip": "QLRapPhim\\Views\\Phims\\Index.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAJgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-16T06:47:47.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Views\\Phims\\Details.cshtml",
+              "RelativeDocumentMoniker": "QLRapPhim\\Views\\Phims\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Views\\Phims\\Details.cshtml",
+              "RelativeToolTip": "QLRapPhim\\Views\\Phims\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-16T06:12:34.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "QLRapPhim\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "QLRapPhim\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAAAIQAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-14T04:09:52.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Views\\Home\\Detail.cshtml",
+              "RelativeDocumentMoniker": "QLRapPhim\\Views\\Home\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Views\\Home\\Detail.cshtml",
+              "RelativeToolTip": "QLRapPhim\\Views\\Home\\Detail.cshtml",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAAGIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-14T04:37:40.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "QLRapPhim\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "QLRapPhim\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T14:36:49.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "QLRapPhim\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "QLRapPhim\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA8wB4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T04:10:30.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "20251024040348_v1.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20251024040348_v1.cs",
+              "RelativeDocumentMoniker": "QLRapPhim\\Migrations\\20251024040348_v1.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20251024040348_v1.cs",
+              "RelativeToolTip": "QLRapPhim\\Migrations\\20251024040348_v1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T04:03:48.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "VnPaySetiings.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Models\\VnPaySetiings.cs",
+              "RelativeDocumentMoniker": "QLRapPhim\\Models\\VnPaySetiings.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Models\\VnPaySetiings.cs",
+              "RelativeToolTip": "QLRapPhim\\Models\\VnPaySetiings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T06:38:45.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PhongChieu.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Models\\PhongChieu.cs",
+              "RelativeDocumentMoniker": "QLRapPhim\\Models\\PhongChieu.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Models\\PhongChieu.cs",
+              "RelativeToolTip": "QLRapPhim\\Models\\PhongChieu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T14:18:42.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "QLRapPhim\\Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Models\\Booking.cs",
+              "RelativeToolTip": "QLRapPhim\\Models\\Booking.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA/wAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T08:40:54.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SuatChieu.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Models\\SuatChieu.cs",
+              "RelativeDocumentMoniker": "QLRapPhim\\Models\\SuatChieu.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Models\\SuatChieu.cs",
+              "RelativeToolTip": "QLRapPhim\\Models\\SuatChieu.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T14:19:45.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SuatChieuxController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Controllers\\SuatChieuxController.cs",
+              "RelativeDocumentMoniker": "QLRapPhim\\Controllers\\SuatChieuxController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Controllers\\SuatChieuxController.cs",
+              "RelativeToolTip": "QLRapPhim\\Controllers\\SuatChieuxController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T07:21:06.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "GheNgoisController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Controllers\\GheNgoisController.cs",
+              "RelativeDocumentMoniker": "QLRapPhim\\Controllers\\GheNgoisController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Controllers\\GheNgoisController.cs",
+              "RelativeToolTip": "QLRapPhim\\Controllers\\GheNgoisController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T07:27:24.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Views\\LoaiPhims\\Create.cshtml",
+              "RelativeDocumentMoniker": "QLRapPhim\\Views\\LoaiPhims\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Views\\LoaiPhims\\Create.cshtml",
+              "RelativeToolTip": "QLRapPhim\\Views\\LoaiPhims\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-16T07:52:51.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GiaVesController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Controllers\\GiaVesController.cs",
+              "RelativeDocumentMoniker": "QLRapPhim\\Controllers\\GiaVesController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Controllers\\GiaVesController.cs",
+              "RelativeToolTip": "QLRapPhim\\Controllers\\GiaVesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T07:27:52.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PhongChieuxController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Controllers\\PhongChieuxController.cs",
+              "RelativeDocumentMoniker": "QLRapPhim\\Controllers\\PhongChieuxController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Controllers\\PhongChieuxController.cs",
+              "RelativeToolTip": "QLRapPhim\\Controllers\\PhongChieuxController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T07:29:04.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Phim.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Models\\Phim.cs",
+              "RelativeDocumentMoniker": "QLRapPhim\\Models\\Phim.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Models\\Phim.cs",
+              "RelativeToolTip": "QLRapPhim\\Models\\Phim.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwBEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T14:19:20.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "LoaiPhimsController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Controllers\\LoaiPhimsController.cs",
+              "RelativeDocumentMoniker": "QLRapPhim\\Controllers\\LoaiPhimsController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Controllers\\LoaiPhimsController.cs",
+              "RelativeToolTip": "QLRapPhim\\Controllers\\LoaiPhimsController.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAIwLUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T14:05:18.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Views\\LoaiPhims\\Index.cshtml",
+              "RelativeDocumentMoniker": "QLRapPhim\\Views\\LoaiPhims\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Views\\LoaiPhims\\Index.cshtml",
+              "RelativeToolTip": "QLRapPhim\\Views\\LoaiPhims\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAIBZwDcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-14T05:52:42.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PhimsController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Controllers\\PhimsController.cs",
+              "RelativeDocumentMoniker": "QLRapPhim\\Controllers\\PhimsController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Controllers\\PhimsController.cs",
+              "RelativeToolTip": "QLRapPhim\\Controllers\\PhimsController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAuwEQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T06:09:34.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "QLRapPhim\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Properties\\launchSettings.json",
+              "RelativeToolTip": "QLRapPhim\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABIAAAAAAAAAAAAQwCEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-15T03:37:10.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "QLRapPhim\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "QLRapPhim\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-14T05:04:42.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Views\\Phims\\Create.cshtml",
+              "RelativeDocumentMoniker": "QLRapPhim\\Views\\Phims\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Views\\Phims\\Create.cshtml",
+              "RelativeToolTip": "QLRapPhim\\Views\\Phims\\Create.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAIBZwDsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-16T06:11:46.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "LoaiPhim.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Models\\LoaiPhim.cs",
+              "RelativeDocumentMoniker": "QLRapPhim\\Models\\LoaiPhim.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Models\\LoaiPhim.cs",
+              "RelativeToolTip": "QLRapPhim\\Models\\LoaiPhim.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T14:24:18.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "SelectTicketAndFood.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Views\\Booking\\SelectTicketAndFood.cshtml",
+              "RelativeDocumentMoniker": "QLRapPhim\\Views\\Booking\\SelectTicketAndFood.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Views\\Booking\\SelectTicketAndFood.cshtml",
+              "RelativeToolTip": "QLRapPhim\\Views\\Booking\\SelectTicketAndFood.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAUwDYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-14T08:06:24.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "SelectSeat.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Views\\Booking\\SelectSeat.cshtml",
+              "RelativeDocumentMoniker": "QLRapPhim\\Views\\Booking\\SelectSeat.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Views\\Booking\\SelectSeat.cshtml",
+              "RelativeToolTip": "QLRapPhim\\Views\\Booking\\SelectSeat.cshtml",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAUwIEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-14T08:06:10.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "BookingHistoryDetail.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Views\\Booking\\BookingHistoryDetail.cshtml",
+              "RelativeDocumentMoniker": "QLRapPhim\\Views\\Booking\\BookingHistoryDetail.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Views\\Booking\\BookingHistoryDetail.cshtml",
+              "RelativeToolTip": "QLRapPhim\\Views\\Booking\\BookingHistoryDetail.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAUwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-16T02:36:35.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "BookingsController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Controllers\\BookingsController.cs",
+              "RelativeDocumentMoniker": "QLRapPhim\\Controllers\\BookingsController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Controllers\\BookingsController.cs",
+              "RelativeToolTip": "QLRapPhim\\Controllers\\BookingsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T15:30:06.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "BookingHistoryViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Models\\BookingHistoryViewModel.cs",
+              "RelativeDocumentMoniker": "QLRapPhim\\Models\\BookingHistoryViewModel.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Models\\BookingHistoryViewModel.cs",
+              "RelativeToolTip": "QLRapPhim\\Models\\BookingHistoryViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T17:14:36.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Views\\Bookings\\Edit.cshtml",
+              "RelativeDocumentMoniker": "QLRapPhim\\Views\\Bookings\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Views\\Bookings\\Edit.cshtml",
+              "RelativeToolTip": "QLRapPhim\\Views\\Bookings\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-16T02:38:30.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Views\\Bookings\\Index.cshtml",
+              "RelativeDocumentMoniker": "QLRapPhim\\Views\\Bookings\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Views\\Bookings\\Index.cshtml",
+              "RelativeToolTip": "QLRapPhim\\Views\\Bookings\\Index.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAqwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-16T02:38:30.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "QLRapPhim\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "QLRapPhim\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-14T07:04:16.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "PaymentFailed.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Views\\Booking\\PaymentFailed.cshtml",
+              "RelativeDocumentMoniker": "QLRapPhim\\Views\\Booking\\PaymentFailed.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Views\\Booking\\PaymentFailed.cshtml",
+              "RelativeToolTip": "QLRapPhim\\Views\\Booking\\PaymentFailed.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwCAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T16:03:04.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "DoAnsController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Controllers\\DoAnsController.cs",
+              "RelativeDocumentMoniker": "QLRapPhim\\Controllers\\DoAnsController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Controllers\\DoAnsController.cs",
+              "RelativeToolTip": "QLRapPhim\\Controllers\\DoAnsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T14:43:45.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "QLRapPhim\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Models\\AppUser.cs",
+              "RelativeToolTip": "QLRapPhim\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T14:25:48.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "SeatViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Models\\SeatViewModel.cs",
+              "RelativeDocumentMoniker": "QLRapPhim\\Models\\SeatViewModel.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Models\\SeatViewModel.cs",
+              "RelativeToolTip": "QLRapPhim\\Models\\SeatViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T14:05:50.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "QLRapPhim\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "QLRapPhim\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T13:28:10.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "BookingDetails.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Models\\BookingDetails.cs",
+              "RelativeDocumentMoniker": "QLRapPhim\\Models\\BookingDetails.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Models\\BookingDetails.cs",
+              "RelativeToolTip": "QLRapPhim\\Models\\BookingDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAABBwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T14:51:43.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "QLRapPhim\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "QLRapPhim\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T13:28:11.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "QLRapPhim\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeToolTip": "QLRapPhim\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T05:06:06.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "QLRapPhim\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeToolTip": "QLRapPhim\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T13:26:45.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "SelectShowtime.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Views\\Booking\\SelectShowtime.cshtml",
+              "RelativeDocumentMoniker": "QLRapPhim\\Views\\Booking\\SelectShowtime.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Views\\Booking\\SelectShowtime.cshtml",
+              "RelativeToolTip": "QLRapPhim\\Views\\Booking\\SelectShowtime.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-14T08:05:20.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "GiaVe.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Models\\GiaVe.cs",
+              "RelativeDocumentMoniker": "QLRapPhim\\Models\\GiaVe.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Models\\GiaVe.cs",
+              "RelativeToolTip": "QLRapPhim\\Models\\GiaVe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T14:29:09.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "DoAn.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Models\\DoAn.cs",
+              "RelativeDocumentMoniker": "QLRapPhim\\Models\\DoAn.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Models\\DoAn.cs",
+              "RelativeToolTip": "QLRapPhim\\Models\\DoAn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T14:26:05.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "QLRapPhim\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "QLRapPhim\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T03:40:51.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "GheNgoi.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Models\\GheNgoi.cs",
+              "RelativeDocumentMoniker": "QLRapPhim\\Models\\GheNgoi.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Models\\GheNgoi.cs",
+              "RelativeToolTip": "QLRapPhim\\Models\\GheNgoi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T14:20:34.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "QLRapPhim\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "QLRapPhim\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T14:54:59.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "20250614160701_v1.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614160701_v1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614160701_v1.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614160701_v1.cs",
+              "RelativeToolTip": "..\\..\\..\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614160701_v1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T16:07:01.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "20250614160411_v1.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614160411_v1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614160411_v1.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614160411_v1.cs",
+              "RelativeToolTip": "..\\..\\..\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614160411_v1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T16:04:11.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "20250614155635_v1.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614155635_v1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614155635_v1.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614155635_v1.cs",
+              "RelativeToolTip": "..\\..\\..\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614155635_v1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T15:56:35.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "20250614155551_v3.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614155551_v3.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614155551_v3.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614155551_v3.cs",
+              "RelativeToolTip": "..\\..\\..\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614155551_v3.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T15:55:51.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "20250614155337_v3.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614155337_v3.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614155337_v3.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614155337_v3.cs",
+              "RelativeToolTip": "..\\..\\..\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614155337_v3.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T15:53:37.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "20250614155307_v3.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614155307_v3.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614155307_v3.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614155307_v3.cs",
+              "RelativeToolTip": "..\\..\\..\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614155307_v3.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T15:53:07.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "20250614154836_v3.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614154836_v3.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614154836_v3.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614154836_v3.cs",
+              "RelativeToolTip": "..\\..\\..\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614154836_v3.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T15:48:36.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "20250614154739_v3.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614154739_v3.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614154739_v3.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614154739_v3.cs",
+              "RelativeToolTip": "..\\..\\..\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614154739_v3.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T15:47:39.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "20250614154221_v3.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614154221_v3.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614154221_v3.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614154221_v3.cs",
+              "RelativeToolTip": "..\\..\\..\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614154221_v3.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T15:42:21.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "20250614153557_v3.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614153557_v3.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614153557_v3.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614153557_v3.cs",
+              "RelativeToolTip": "..\\..\\..\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614153557_v3.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T15:35:57.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "20250614153338_v3.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614153338_v3.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614153338_v3.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614153338_v3.cs",
+              "RelativeToolTip": "..\\..\\..\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614153338_v3.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T15:33:39.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "20250614153056_v4.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614153056_v4.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614153056_v4.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614153056_v4.cs",
+              "RelativeToolTip": "..\\..\\..\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614153056_v4.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T15:30:56.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "20250614152934_v4.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614152934_v4.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614152934_v4.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614152934_v4.cs",
+              "RelativeToolTip": "..\\..\\..\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614152934_v4.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T15:29:34.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "20250614152707_v4.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614152707_v4.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614152707_v4.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614152707_v4.cs",
+              "RelativeToolTip": "..\\..\\..\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614152707_v4.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T15:27:07.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "20250614152532_v4.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614152532_v4.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614152532_v4.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614152532_v4.cs",
+              "RelativeToolTip": "..\\..\\..\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614152532_v4.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T15:25:32.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "20250614151239_v4.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614151239_v4.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614151239_v4.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614151239_v4.cs",
+              "RelativeToolTip": "..\\..\\..\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614151239_v4.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T15:12:39.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "20250614151152_v4.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614151152_v4.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614151152_v4.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614151152_v4.cs",
+              "RelativeToolTip": "..\\..\\..\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614151152_v4.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T15:11:52.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "20250614151115_v4.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614151115_v4.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614151115_v4.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614151115_v4.cs",
+              "RelativeToolTip": "..\\..\\..\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614151115_v4.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T15:11:15.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "20250614150957_v4.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614150957_v4.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614150957_v4.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614150957_v4.cs",
+              "RelativeToolTip": "..\\..\\..\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250614150957_v4.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T15:09:57.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "QLRapPhim\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "QLRapPhim\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-14T05:06:05.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "Style.css",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\wwwroot\\css\\Style.css",
+              "RelativeDocumentMoniker": "QLRapPhim\\wwwroot\\css\\Style.css",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\DO AN\\Web\\QLRapPhim\\QLRapPhim\\wwwroot\\css\\Style.css",
+              "RelativeToolTip": "QLRapPhim\\wwwroot\\css\\Style.css",
+              "ViewState": "AgIAAMY0AAAAAAAAAAAIwOA0AAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-09T13:25:02.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "20250612153259_v1.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250612153259_v1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250612153259_v1.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250612153259_v1.cs",
+              "RelativeToolTip": "..\\..\\..\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250612153259_v1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T15:33:00.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "20250612153500_v1.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250612153500_v1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250612153500_v1.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250612153500_v1.cs",
+              "RelativeToolTip": "..\\..\\..\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250612153500_v1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T15:35:00.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "20250612133815_v1.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250612133815_v1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250612133815_v1.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250612133815_v1.cs",
+              "RelativeToolTip": "..\\..\\..\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250612133815_v1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T13:38:15.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "20250612133727_v1.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250612133727_v1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250612133727_v1.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250612133727_v1.cs",
+              "RelativeToolTip": "..\\..\\..\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250612133727_v1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T13:37:27.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "20250612133234_v1.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250612133234_v1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250612133234_v1.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250612133234_v1.cs",
+              "RelativeToolTip": "..\\..\\..\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250612133234_v1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T13:32:34.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "20250610153430_v1.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250610153430_v1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250610153430_v1.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250610153430_v1.cs",
+              "RelativeToolTip": "..\\..\\..\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250610153430_v1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T15:34:30.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "20250610152814_v1.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250610152814_v1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250610152814_v1.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250610152814_v1.cs",
+              "RelativeToolTip": "..\\..\\..\\\u0110\u1ED3 \u00E1n\\Web\\QLRapPhim\\QLRapPhim\\Migrations\\20250610152814_v1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T15:28:14.728Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

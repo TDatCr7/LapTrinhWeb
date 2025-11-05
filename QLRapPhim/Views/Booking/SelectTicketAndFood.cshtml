@@ -1,0 +1,62 @@
+﻿@model dynamic
+@{
+    var showtime = ViewBag.Showtime as QLRapPhim.Models.SuatChieu;
+    var seats = ViewBag.Seats as List<QLRapPhim.Models.GheNgoi>; // Thay seat bằng seats
+    var ticketPrices = ViewBag.TicketPrices as List<QLRapPhim.Models.GiaVe>;
+    var foods = ViewBag.Foods as List<QLRapPhim.Models.DoAn>;
+    ViewData["Title"] = "Chọn vé và đồ ăn";
+}
+
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+
+<div class="container mt-5">
+    <h2 class="text-center mb-4">Chọn vé và đồ ăn</h2>
+    <p class="text-center">Phim: @showtime.Movie.Name</p>
+    <p class="text-center">Suất chiếu: @showtime.ShowDate.ToString("dd/MM/yyyy") - @showtime.StartTime.ToString(@"hh\:mm")</p>
+    <p class="text-center">Ghế đã chọn: @string.Join(", ", seats.Select(s => s.Position))</p>
+
+    <form asp-action="ConfirmBooking" method="post" class="mt-4">
+        <input type="hidden" name="showtimeId" value="@showtime.Id" />
+        <input type="hidden" name="seatIds" value="@string.Join(",", seats.Select(s => s.Id))" />
+
+        <div class="form-group mb-3">
+            <label for="ticketPriceId" class="form-label">Loại vé (áp dụng cho tất cả ghế)</label>
+            <select name="ticketPriceId" id="ticketPriceId" class="form-select" required>
+                @foreach (var ticket in ticketPrices)
+                {
+                    <option value="@ticket.Id">@ticket.Name - @ticket.Price.ToString("C")</option>
+                }
+            </select>
+        </div>
+
+        <div class="form-group mb-3">
+            <label for="foodId" class="form-label">Đồ ăn (tùy chọn, áp dụng cho tất cả ghế)</label>
+            <select name="foodId" id="foodId" class="form-select" onchange="updateFoodQuantity()">
+                <option value="">Không chọn</option>
+                @foreach (var food in foods)
+                {
+                    <option value="@food.Id">@food.Name - @food.Price.ToString("C")</option>
+                }
+            </select>
+            <input type="number" name="foodQuantity" id="foodQuantity" class="form-control mt-2" min="0" value="0" placeholder="Số lượng" disabled />
+        </div>
+
+        <div class="text-center">
+            <button type="submit" class="btn btn-primary mt-3">Xác nhận</button>
+        </div>
+    </form>
+</div>
+
+<script>
+    function updateFoodQuantity() {
+        var foodSelect = document.getElementById("foodId");
+        var quantityInput = document.getElementById("foodQuantity");
+        if (foodSelect.value === "") {
+            quantityInput.disabled = true;
+            quantityInput.value = 0;
+        } else {
+            quantityInput.disabled = false;
+            if (quantityInput.value === "0") quantityInput.value = 1; // Đặt mặc định là 1 khi chọn đồ ăn
+        }
+    }
+</script>

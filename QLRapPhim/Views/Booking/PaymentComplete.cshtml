@@ -1,0 +1,47 @@
+﻿@model QLRapPhim.Models.Booking
+@{
+    ViewData["Title"] = "Hoàn tất thanh toán";
+    var bookings = ViewBag.Bookings as List<QLRapPhim.Models.Booking> ?? new List<QLRapPhim.Models.Booking>();
+}
+
+<h2>Hoàn tất thanh toán</h2>
+
+@if (!string.IsNullOrEmpty(ViewBag.SuccessMessage))
+{
+    <p style="color: green;">@ViewBag.SuccessMessage</p>
+}
+
+@if (bookings.Any())
+{
+    <h3>Thông tin đặt vé</h3>
+    <p><strong>Phim:</strong> @bookings.First().Showtime.Movie.Name</p>
+    <p><strong>Suất chiếu:</strong> @((bookings.First().Showtime.ShowDate + bookings.First().Showtime.StartTime).ToString("dd/MM/yyyy HH:mm"))</p>
+    <p><strong>Phòng chiếu:</strong> @bookings.First().Showtime.Screen.Name</p>
+    <p><strong>Số lượng ghế:</strong> @bookings.Count</p>
+    <p><strong>Vị trí ghế:</strong> @ViewBag.SeatPositions</p>
+
+    <h4>Chi tiết vé</h4>
+    <ul>
+        @foreach (var booking in bookings)
+        {
+            <li>
+                <strong>Ghế:</strong> @(booking.Showtime?.Screen?.Seats.FirstOrDefault(s => s.Id == booking.SeatId)?.Position ?? "Không xác định")<br />
+                <strong>Loại vé:</strong> @(booking.BookingDetails?.FirstOrDefault()?.TicketPrice?.Name ?? "Không xác định")<br />
+                @if (booking.Food != null)
+                {
+                    <strong>Đồ ăn:</strong> 
+                    @booking.Food.Name
+        
+                    <br />
+                }
+                <strong>Giá:</strong> @(booking.BookingDetails?.FirstOrDefault()?.TotalPrice.ToString("C") ?? "0đ")
+            </li>
+        }
+    </ul>
+}
+else
+{
+    <p style="color: red;">Không tìm thấy thông tin đặt vé.</p>
+}
+
+<a asp-action="BookingHistory" asp-controller="Booking">Xem lịch sử đặt vé</a>

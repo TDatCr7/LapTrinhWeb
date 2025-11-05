@@ -1,0 +1,51 @@
+﻿@model IEnumerable<QLRapPhim.Models.BookingHistoryViewModel>
+
+@{
+    ViewData["Title"] = "Lịch sử đặt vé";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Lịch sử đặt vé</h1>
+
+@if (!string.IsNullOrEmpty(ViewBag.Message))
+{
+    <p style="color: red;">@ViewBag.Message</p>
+}
+else if (Model != null && Model.Any())
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Ngày chiếu</th>
+                <th>Phim</th>
+                <th>Giờ chiếu</th>
+                <th>Phòng</th>
+                <th>Số ghế</th>
+                <th>Giá vé</th>
+                <th>Giá đồ ăn</th>
+                <th>Tổng tiền</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Showtime.ShowDate.ToString("dd/MM/yyyy")</td>
+                    <td>@item.Showtime.Movie.Name</td>
+                    <td>@item.Showtime.StartTime.ToString(@"hh\:mm")</td>
+                    <td>@item.Showtime.Screen.Name</td>
+                    <td>@item.Quantity</td>
+                    <td>@item.TotalTicketPrice.ToString("C")</td>
+                    <td>@item.TotalFoodPrice.ToString("C")</td>
+                    <td>@item.TotalPrice.ToString("C")</td>
+                    <td>
+                        <a asp-action="BookingHistoryDetail" asp-route-id="@item.BookingId">Chi tiết</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+<a asp-action="Index" asp-controller="Home" class="btn btn-secondary mt-3">Quay lại trang chủ</a>

@@ -1,0 +1,55 @@
+﻿@model QLRapPhim.Models.Booking
+
+@{
+    ViewData["Title"] = "Chi tiết đặt vé";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var bookings = ViewBag.Bookings as List<QLRapPhim.Models.Booking> ?? new();
+}
+
+<h2>Chi tiết đặt vé</h2>
+
+@if (!string.IsNullOrEmpty(ViewBag.SuccessMessage))
+{
+    <p style="color: green;">@ViewBag.SuccessMessage</p>
+}
+
+@if (bookings.Any())
+{
+    <h3>Thông tin đặt vé</h3>
+    <p><strong>Phim:</strong> @bookings.First().Showtime.Movie.Name</p>
+    <p><strong>Ngày chiếu:</strong> @bookings.First().Showtime.ShowDate.ToString("dd/MM/yyyy")</p>
+    <p><strong>Giờ chiếu:</strong> @(bookings.First().Showtime.ShowDate + bookings.First().Showtime.StartTime).ToString("HH:mm")</p>
+    <p><strong>Phòng chiếu:</strong> @bookings.First().Showtime.Screen.Name</p>
+    <p><strong>Số lượng ghế:</strong> @bookings.Count</p>
+    <p><strong>Vị trí ghế:</strong> @ViewBag.SeatPositions</p>
+
+    <h4>Chi tiết vé</h4>
+    <ul>
+        @foreach (var booking in bookings)
+        {
+            <li>
+                <strong>Ghế:</strong> @(booking.Showtime.Screen.Seats.FirstOrDefault(s => s.Id == booking.SeatId)?.Position ?? "Không xác định")<br />
+                <strong>Loại vé:</strong> @(booking.BookingDetails?.FirstOrDefault()?.TicketPrice?.Name ?? "Không xác định")<br />
+                @if (booking.Food != null)
+                {
+                    <strong>Đồ ăn:</strong> 
+                    @booking.Food.Name
+        
+                    <br />
+                }
+                <strong>Giá vé:</strong> @(booking.BookingDetails?.FirstOrDefault()?.TotalPrice.ToString("C") ?? "0đ")
+            </li>
+        }
+    </ul>
+
+    <h4>Tổng cộng</h4>
+    <p><strong>Giá vé:</strong> @ViewBag.TotalTicketPrice.ToString("C")</p>
+    <p><strong>Đồ ăn:</strong> @ViewBag.TotalFoodPrice.ToString("C")</p>
+    <p><strong>Tổng tiền:</strong> @ViewBag.TotalPrice.ToString("C")</p>
+}
+else
+{
+    <p style="color: red;">Không tìm thấy thông tin đặt vé.</p>
+}
+
+<a asp-action="BookingHistory" asp-controller="Booking" class="btn btn-secondary mt-3">Quay lại lịch sử</a>

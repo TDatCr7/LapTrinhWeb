@@ -1,0 +1,281 @@
+is_global = true
+build_property.TargetFramework = net9.0
+build_property.TargetFramework = net9.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = QLRapPhim
+build_property.RootNamespace = QLRapPhim
+build_property.ProjectDir = C:\Users\Asus\Desktop\DO AN\Web\QLRapPhim\QLRapPhim\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 9.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Asus\Desktop\DO AN\Web\QLRapPhim\QLRapPhim
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/Asus/Desktop/DO AN/Web/QLRapPhim/QLRapPhim/Areas/Identity/Pages/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/DO AN/Web/QLRapPhim/QLRapPhim/Areas/Identity/Pages/Account/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/DO AN/Web/QLRapPhim/QLRapPhim/Areas/Identity/Pages/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/DO AN/Web/QLRapPhim/QLRapPhim/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/DO AN/Web/QLRapPhim/QLRapPhim/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/DO AN/Web/QLRapPhim/QLRapPhim/Areas/Identity/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/DO AN/Web/QLRapPhim/QLRapPhim/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/DO AN/Web/QLRapPhim/QLRapPhim/Views/Bookings/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/DO AN/Web/QLRapPhim/QLRapPhim/Views/Bookings/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/DO AN/Web/QLRapPhim/QLRapPhim/Views/Bookings/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/DO AN/Web/QLRapPhim/QLRapPhim/Views/Bookings/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/DO AN/Web/QLRapPhim/QLRapPhim/Views/Bookings/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/DO AN/Web/QLRapPhim/QLRapPhim/Views/Booking/BookingHistory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ1xCb29raW5nSGlzdG9yeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/DO AN/Web/QLRapPhim/QLRapPhim/Views/Booking/BookingHistoryDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ1xCb29raW5nSGlzdG9yeURldGFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/DO AN/Web/QLRapPhim/QLRapPhim/Views/Booking/Payment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ1xQYXltZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/DO AN/Web/QLRapPhim/QLRapPhim/Views/Booking/PaymentComplete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ1xQYXltZW50Q29tcGxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/DO AN/Web/QLRapPhim/QLRapPhim/Views/Booking/PaymentFailed.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ1xQYXltZW50RmFpbGVkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/DO AN/Web/QLRapPhim/QLRapPhim/Views/Booking/SelectSeat.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ1xTZWxlY3RTZWF0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/DO AN/Web/QLRapPhim/QLRapPhim/Views/Booking/SelectShowtime.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ1xTZWxlY3RTaG93dGltZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/DO AN/Web/QLRapPhim/QLRapPhim/Views/Booking/SelectTicketAndFood.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ1xTZWxlY3RUaWNrZXRBbmRGb29kLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/DO AN/Web/QLRapPhim/QLRapPhim/Views/DoAns/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9BbnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/DO AN/Web/QLRapPhim/QLRapPhim/Views/DoAns/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9BbnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/DO AN/Web/QLRapPhim/QLRapPhim/Views/DoAns/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9BbnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/DO AN/Web/QLRapPhim/QLRapPhim/Views/DoAns/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9BbnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/DO AN/Web/QLRapPhim/QLRapPhim/Views/DoAns/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9BbnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/DO AN/Web/QLRapPhim/QLRapPhim/Views/GheNgois/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2hlTmdvaXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/DO AN/Web/QLRapPhim/QLRapPhim/Views/GheNgois/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2hlTmdvaXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/DO AN/Web/QLRapPhim/QLRapPhim/Views/GheNgois/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2hlTmdvaXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/DO AN/Web/QLRapPhim/QLRapPhim/Views/GheNgois/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2hlTmdvaXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/DO AN/Web/QLRapPhim/QLRapPhim/Views/GheNgois/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2hlTmdvaXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/DO AN/Web/QLRapPhim/QLRapPhim/Views/GiaVes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2lhVmVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/DO AN/Web/QLRapPhim/QLRapPhim/Views/GiaVes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2lhVmVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/DO AN/Web/QLRapPhim/QLRapPhim/Views/GiaVes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2lhVmVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/DO AN/Web/QLRapPhim/QLRapPhim/Views/GiaVes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2lhVmVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/DO AN/Web/QLRapPhim/QLRapPhim/Views/GiaVes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2lhVmVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/DO AN/Web/QLRapPhim/QLRapPhim/Views/Home/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/DO AN/Web/QLRapPhim/QLRapPhim/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/DO AN/Web/QLRapPhim/QLRapPhim/Views/LoaiPhims/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9haVBoaW1zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/DO AN/Web/QLRapPhim/QLRapPhim/Views/LoaiPhims/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9haVBoaW1zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/DO AN/Web/QLRapPhim/QLRapPhim/Views/LoaiPhims/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9haVBoaW1zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/DO AN/Web/QLRapPhim/QLRapPhim/Views/LoaiPhims/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9haVBoaW1zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/DO AN/Web/QLRapPhim/QLRapPhim/Views/LoaiPhims/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9haVBoaW1zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/DO AN/Web/QLRapPhim/QLRapPhim/Views/Phims/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhpbXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/DO AN/Web/QLRapPhim/QLRapPhim/Views/Phims/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhpbXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/DO AN/Web/QLRapPhim/QLRapPhim/Views/Phims/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhpbXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/DO AN/Web/QLRapPhim/QLRapPhim/Views/Phims/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhpbXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/DO AN/Web/QLRapPhim/QLRapPhim/Views/Phims/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhpbXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/DO AN/Web/QLRapPhim/QLRapPhim/Views/PhongChieux/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhvbmdDaGlldXhcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/DO AN/Web/QLRapPhim/QLRapPhim/Views/PhongChieux/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhvbmdDaGlldXhcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/DO AN/Web/QLRapPhim/QLRapPhim/Views/PhongChieux/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhvbmdDaGlldXhcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/DO AN/Web/QLRapPhim/QLRapPhim/Views/PhongChieux/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhvbmdDaGlldXhcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/DO AN/Web/QLRapPhim/QLRapPhim/Views/PhongChieux/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhvbmdDaGlldXhcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/DO AN/Web/QLRapPhim/QLRapPhim/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/DO AN/Web/QLRapPhim/QLRapPhim/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/DO AN/Web/QLRapPhim/QLRapPhim/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/DO AN/Web/QLRapPhim/QLRapPhim/Views/SuatChieux/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VhdENoaWV1eFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/DO AN/Web/QLRapPhim/QLRapPhim/Views/SuatChieux/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VhdENoaWV1eFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/DO AN/Web/QLRapPhim/QLRapPhim/Views/SuatChieux/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VhdENoaWV1eFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/DO AN/Web/QLRapPhim/QLRapPhim/Views/SuatChieux/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VhdENoaWV1eFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/DO AN/Web/QLRapPhim/QLRapPhim/Views/SuatChieux/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VhdENoaWV1eFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/DO AN/Web/QLRapPhim/QLRapPhim/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/DO AN/Web/QLRapPhim/QLRapPhim/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/DO AN/Web/QLRapPhim/QLRapPhim/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ubh2rv9ief

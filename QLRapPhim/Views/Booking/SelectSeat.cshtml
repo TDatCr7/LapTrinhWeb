@@ -1,0 +1,130 @@
+﻿@model List<QLRapPhim.Models.SeatViewModel>
+@{
+    var showtime = ViewBag.Showtime as QLRapPhim.Models.SuatChieu;
+    ViewData["Title"] = $"Chọn ghế - {showtime.Movie.Name}";
+}
+
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+<style>
+    .seat {
+        width: 40px;
+        height: 40px;
+        margin: 5px;
+        border: 1px solid #ccc;
+        text-align: center;
+        line-height: 40px;
+        cursor: pointer;
+        border-radius: 5px;
+    }
+
+        .seat.available {
+            background-color: #fff;
+            color: #000;
+        }
+
+        .seat.selected {
+            background-color: #ffcc00; /* Màu vàng khi chọn giống CGV */
+            color: #fff;
+            border-color: #ffcc00;
+        }
+
+        .seat.occupied {
+            background-color: #ccc; /* Màu xám cho ghế đã đặt */
+            color: #666;
+            cursor: not-allowed;
+        }
+
+    .screen {
+        background-color: #000;
+        color: #fff;
+        padding: 10px;
+        margin-bottom: 20px;
+        text-align: center;
+        font-size: 18px;
+    }
+
+    .row-label {
+        font-weight: bold;
+        margin-right: 10px;
+    }
+</style>
+
+<div class="container mt-5">
+    <h2 class="text-center mb-4">Chọn ghế - @showtime.Movie.Name</h2>
+    <p class="text-center mb-4">Suất chiếu: @showtime.ShowDate.ToString("dd/MM/yyyy") - @showtime.StartTime.ToString(@"hh\:mm") | Rạp: @showtime.Screen.Name</p>
+
+    <div class="screen">MÀN HÌNH</div>
+
+    <form asp-action="SelectTicketAndFood" method="post" id="seatForm">
+        <input type="hidden" name="showtimeId" value="@showtime.Id" />
+        <input type="hidden" name="seatIds" id="selectedSeatIds" value="" />
+
+        <div class="text-center mb-3">
+            <span class="badge bg-success">Trống</span>
+            <span class="badge bg-warning text-dark mx-2">Đã chọn</span>
+            <span class="badge bg-secondary">Đã đặt</span>
+        </div>
+
+        <div class="seat-container">
+            @for (int i = 0; i < Model.Count; i += 15)
+            {
+                var rowSeats = Model.Skip(i).Take(15).ToList();
+                <div class="row mb-2 justify-content-center">
+                    <div class="col-auto row-label">@((char)('A' + i / 15))</div>
+                    @foreach (var seat in rowSeats)
+                    {
+                        var seatClass = seat.IsOccupied ? "occupied" : "available";
+                        <div class="col-auto">
+                            <div class="seat @seatClass" data-seat-id="@seat.Id" data-position="@seat.Position">
+                                @seat.Position
+                            </div>
+                        </div>
+                    }
+                </div>
+            }
+        </div>
+
+        <div class="text-center mt-4">
+            <button type="submit" class="btn btn-primary" id="continueButton" disabled>Tiếp tục</button>
+        </div>
+    </form>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        const seats = document.querySelectorAll('.seat');
+        let selectedSeatIds = [];
+
+        seats.forEach(seat => {
+            seat.addEventListener('click', function () {
+                if (!seat.classList.contains('occupied')) {
+                    const seatId = seat.getAttribute('data-seat-id');
+                    const index = selectedSeatIds.indexOf(seatId);
+
+                    if (index === -1) {
+                        // Chọn ghế
+                        seat.classList.add('selected');
+                        selectedSeatIds.push(seatId);
+                    } else {
+                        // Bỏ chọn ghế
+                        seat.classList.remove('selected');
+                        selectedSeatIds.splice(index, 1);
+                    }
+
+                    // Cập nhật hidden input với danh sách seatIds
+                    document.getElementById('selectedSeatIds').value = selectedSeatIds.join(',');
+                    document.getElementById('continueButton').disabled = selectedSeatIds.length === 0;
+                }
+            });
+        });
+
+        // Xử lý submit form
+        document.getElementById('seatForm').addEventListener('submit', function (e) {
+            if (selectedSeatIds.length === 0) {
+                e.preventDefault();
+                alert('Vui lòng chọn ít nhất một ghế!');
+            }
+        });
+    });
+</script>

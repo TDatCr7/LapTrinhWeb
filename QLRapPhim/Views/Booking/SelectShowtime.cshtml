@@ -1,0 +1,27 @@
+﻿@model List<QLRapPhim.Models.SuatChieu>
+@{
+    var movie = ViewBag.Movie as QLRapPhim.Models.Phim;
+    ViewData["Title"] = $"Chọn suất chiếu - {movie.Name}";
+}
+
+<h2>Chọn suất chiếu cho @movie.Name</h2>
+@if (TempData["Error"] != null)
+{
+    <div class="alert alert-danger">@TempData["Error"]</div>
+}
+<div class="row">
+    @foreach (var showtime in Model)
+    {
+        <div class="col-md-4">
+            <div class="card mb-3">
+                <div class="card-body">
+                    <h5 class="card-title">@showtime.ShowDate.ToString("dd/MM/yyyy")</h5>
+                    <p class="card-text">Giờ: @showtime.StartTime.ToString(@"hh\:mm")</p>
+                    <p class="card-text">Phòng: @showtime.Screen.Name</p>
+                    <p class="card-text">Định dạng: @showtime.Format</p>
+                    <a asp-action="SelectSeat" asp-route-showtimeId="@showtime.Id" class="btn btn-primary">Chọn ghế</a>
+                </div>
+            </div>
+        </div>
+    }
+</div>
